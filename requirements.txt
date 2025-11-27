@@ -1,0 +1,10 @@
+orange3==3.39.0
+orange3-text
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+orange3
+orange3-text
+nltk
